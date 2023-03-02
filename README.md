@@ -1,1 +1,1 @@
-Beginner React Application
+Calculator made in React.
